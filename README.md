@@ -1,6 +1,8 @@
-# HTML/CSS
+# HTML & CSS
 
-## Exercices
+>_[Training](https://github.com/simplonco/training) / HTML & CSS_
+
+## Exercises
 
  * Finir le parcours HTML/CSS de [Codecademy](http://codecademy.com)
  * Carte de Visite
@@ -13,3 +15,5 @@
 
 * [Comprendre le CSS :](https://docs.webplatform.org/wiki/css/tutorials) 
   * A quoi sa sert ?
+
+_To be continued.._
