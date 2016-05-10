@@ -54,6 +54,19 @@
 * https://la-cascade.io/css-grid-layout-guide-complet/ :fr:
 * https://expo.getbootstrap.com/ :uk:
 
+
+### Discourses
+
+* [Projet WoW (World of WarCraft)](http://discourse.simplon.co/t/projet-wow-world-of-warcraft/117)
+* [Silent Teacher](http://discourse.simplon.co/t/silent-teacher/116)
+* [Projet Pottermore](http://discourse.simplon.co/t/projet-pottermore/118)
+* [Exercices type](http://discourse.simplon.co/t/exercices-type/121) => HTML and CSS Ninja Training!
+* [Les challenges additionnels](http://discourse.simplon.co/t/les-challenges-additionnels/61)
+* [Challenges du mercredi](http://discourse.simplon.co/t/challenges-du-mercredi/60)
+* [Cours sur HTML et CSS](http://discourse.simplon.co/t/cours-sur-html-et-css/33)
+* [Positionnement des éléments en CSS](http://discourse.simplon.co/t/positionnement-des-elements-en-css/35)
+* [Projet Game Of Thrones](http://discourse.simplon.co/t/projet-game-of-thrones/119)
+
 ### CSS PREPROCESSORS
 
 * You can also try some CSS Preprocessors : http://lesscss.org/ & http://sass-lang.com/ & http://stylus-lang.com/
