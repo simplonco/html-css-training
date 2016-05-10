@@ -54,6 +54,9 @@
 * https://la-cascade.io/css-grid-layout-guide-complet/ :fr:
 * https://expo.getbootstrap.com/ :uk:
 
+### CSS PREPROCESSORS
+
+* You can also try some CSS Preprocessors : http://lesscss.org/ & http://sass-lang.com/ & http://stylus-lang.com/
 
 ### Discourses
 
@@ -66,10 +69,6 @@
 * [Cours sur HTML et CSS](http://discourse.simplon.co/t/cours-sur-html-et-css/33)
 * [Positionnement des éléments en CSS](http://discourse.simplon.co/t/positionnement-des-elements-en-css/35)
 * [Projet Game Of Thrones](http://discourse.simplon.co/t/projet-game-of-thrones/119)
-
-### CSS PREPROCESSORS
-
-* You can also try some CSS Preprocessors : http://lesscss.org/ & http://sass-lang.com/ & http://stylus-lang.com/
 
 
 _To be continued.._
