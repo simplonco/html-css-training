@@ -19,7 +19,7 @@
   * Les balises et leurs fonctionnement
 
 * [Comprendre le CSS :](https://docs.webplatform.org/wiki/css/tutorials) 
-  * A quoi sa sert ?
+  * A quoi ça sert ?
 
 * [Codecademy](http://codecademy.com) :fr: :uk:
 
@@ -43,7 +43,7 @@
 * The Magic of CSS
   http://adamschwartz.co/magic-of-css/ :uk:
 
-### HTML CHECKER
+### HTML Checker
 
 * Best practice, be sure your page validate this 2 checks: https://developers.google.com/speed/pagespeed/ & https://validator.w3.org/
 
@@ -54,7 +54,7 @@
 * https://la-cascade.io/css-grid-layout-guide-complet/ :fr:
 * https://expo.getbootstrap.com/ :uk:
 
-### CSS PREPROCESSORS
+### CSS Preprocessors
 
 * You can also try some CSS Preprocessors : http://lesscss.org/ & http://sass-lang.com/ & http://stylus-lang.com/
 
