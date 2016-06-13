@@ -12,9 +12,10 @@
 * [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
 
 
-## Projet
+## Project
 
 [Static Website](https://github.com/simplonco/project-static-website) _Groups Project HTML / CSS / Bootstrap_
+
 
 ## Resources
 
