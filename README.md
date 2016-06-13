@@ -15,7 +15,7 @@
 ## Project
 
 [Static Website](https://github.com/simplonco/project-static-website) _Groups Project HTML / CSS / Bootstrap_
-
+[Intégration "Privy"](https://github.com/simplonco/project-privy)
 
 ## Resources
 
