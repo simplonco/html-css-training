@@ -12,7 +12,7 @@
 * [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
 
-## Project
+## Projects
 
 * [Static Website](https://github.com/simplonco/project-static-website) _Groups Project HTML / CSS / Bootstrap_
 * [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
