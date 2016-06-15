@@ -60,7 +60,7 @@
 * [Projet WoW (World of WarCraft)](http://discourse.simplon.co/t/projet-wow-world-of-warcraft/117)
 * [Silent Teacher](http://discourse.simplon.co/t/silent-teacher/116)
 * [Projet Pottermore](http://discourse.simplon.co/t/projet-pottermore/118)
-* [Exercices type](http://discourse.simplon.co/t/exercices-type/121) => HTML and CSS Ninja Training!
+* [Exercices type](http://discourse.simplon.co/t/exercices-type/121) => [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Les challenges additionnels](http://discourse.simplon.co/t/les-challenges-additionnels/61)
 * [Challenges du mercredi](http://discourse.simplon.co/t/challenges-du-mercredi/60)
 * [Cours sur HTML et CSS](http://discourse.simplon.co/t/cours-sur-html-et-css/33)
