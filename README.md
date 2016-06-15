@@ -14,7 +14,7 @@
 
 ## Projects
 
-* [Static Website](https://github.com/simplonco/project-static-website) _Groups Project HTML / CSS / Bootstrap_
+* [Static Website](https://github.com/simplonco/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
 * [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
 
 ## Resources
