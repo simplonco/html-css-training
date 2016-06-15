@@ -2,6 +2,8 @@
 
 >_[Training](https://github.com/simplonco/training) / HTML & CSS_
 
+![HTML5 & CSS3](html_css.png)
+
 ## Exercises
 
 * [balloc.evitca](https://github.com/simplonco/balloc.evitca)
