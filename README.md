@@ -1,4 +1,4 @@
-# HTML & CSS
+# HTML5 & CSS3
 
 >_[Training](https://github.com/simplonco/training) / HTML & CSS_
 
