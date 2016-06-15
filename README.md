@@ -55,7 +55,9 @@
 
 ### CSS Preprocessors
 
-* You can also try some CSS Preprocessors : http://lesscss.org/ & http://sass-lang.com/ & http://stylus-lang.com/
+* http://lesscss.org/
+* http://sass-lang.com/
+* http://stylus-lang.com/
 
 ### Discourses
 
