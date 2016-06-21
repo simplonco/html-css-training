@@ -28,6 +28,8 @@
 
 https://www.grafikart.fr/formations/html-css
 
+http://www.htmldog.com/guides/css/
+
 ### Simplonline
 
 * Intégration HTML/CSS (Simplonline)
