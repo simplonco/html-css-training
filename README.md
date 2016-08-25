@@ -4,7 +4,7 @@
 
 ![HTML5 & CSS3](html_css.png)
 
-## Exercises!
+## Exercises
 
 * [balloc.evitca](https://gitlab.com/simplon-co/balloc.evitca)
 * [Debug me, I'm famous!](https://gitlab.com/simplon-co/Debug-me-I-m-famous)
