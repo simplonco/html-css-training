@@ -24,9 +24,11 @@
   * Les balises et leurs fonctionnement
 * [Comprendre le CSS :](https://docs.webplatform.org/wiki/css/tutorials) 
   * A quoi ça sert ?
-* [Codecademy](http://codecademy.com) :fr: 
-* https://www.grafikart.fr/formations/html-css
-* http://www.htmldog.com/guides/css/
+* [Codecademy](http://codecademy.com) :fr: :uk:
+
+https://www.grafikart.fr/formations/html-css
+
+http://www.htmldog.com/guides/css/
 
 ### Simplonline
 
@@ -41,24 +43,19 @@
 ### MDN
 
 * Mozilla Teaching Activities
-  https://teach.mozilla.org/activities/ 
+  https://teach.mozilla.org/activities/ :uk:
 * The Magic of CSS
-  http://adamschwartz.co/magic-of-css/ 
+  http://adamschwartz.co/magic-of-css/ :uk:
 
 ### HTML Checker
 
-Best practice, be sure your page validate this 2 checks:
-* https://developers.google.com/speed/pagespeed/
-* https://validator.w3.org/
-
-### Flexbox - Layout
-
+* Best practice, be sure your page validate this 2 checks: https://developers.google.com/speed/pagespeed/ & https://validator.w3.org/
 * https://la-cascade.io/flexbox-guide-complet/ :fr:
-* http://tympanus.net/codrops/collective 
-* http://shoelace.io/ 
-* http://autoprefixer.github.io/ 
+* http://tympanus.net/codrops/collective :uk:
+* http://shoelace.io/ :uk:
+* http://autoprefixer.github.io/ :uk:
 * https://la-cascade.io/css-grid-layout-guide-complet/ :fr:
-* https://expo.getbootstrap.com/ 
+* https://expo.getbootstrap.com/ :uk:
 
 ### CSS Preprocessors
 
