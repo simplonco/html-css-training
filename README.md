@@ -1,28 +1,28 @@
 # HTML & CSS
 
->_[Training](https://gitlab.com/simplon-co/training) / HTML & CSS_
+>_[Training](https://github.com/simplonco/training) / HTML & CSS_
 
 ![HTML5 & CSS3](html_css.png)
 
 ## Exercises
 
-* [balloc.evitca](https://gitlab.com/simplon-co/balloc.evitca)
-* [Debug me, I'm famous!](https://gitlab.com/simplon-co/Debug-me-I-m-famous)
-* [Create a CV with Bootstrap to conquer the World!](https://gitlab.com/simplon-co/Create-a-CV-with-Bootstrap-to-conquer-the-World)
-* [HTML and CSS Ninja Training!](https://gitlab.com/simplon-co/HTML-and-CSS-Ninja-Training)
-* [Ten Commandments of HTML and CSS!](https://gitlab.com/simplon-co/Ten-Commandments-of-HTML-and-CSS)
+* [balloc.evitca](https://github.com/simplonco/balloc.evitca)
+* [Debug me, I'm famous!](https://github.com/simplonco/Debug-me-I-m-famous)
+* [Create a CV with Bootstrap to conquer the World!](https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World)
+* [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
+* [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
 
 ## Projects
 
-* [Static Website](https://gitlab.com/simplon-co/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
-* [Intégration "Privy"](https://gitlab.com/simplon-co/project-privy) _WebDesign_
+* [Static Website](https://github.com/simplonco/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
+* [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
 
 ## Resources
 
 * [Une introduction au HTML :](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Introduction) :fr:
   * Comprendre l'architecture d'une page ; l'histoire du "HTML au HTML5"
   * Les balises et leurs fonctionnement
-* [Comprendre le CSS :](https://docs.webplatform.org/wiki/css/tutorials) 
+* [Comprendre le CSS :](https://docs.webplatform.org/wiki/css/tutorials)
   * A quoi ça sert ?
 * [Codecademy](http://codecademy.com) :fr: :gb:
 * https://www.grafikart.fr/formations/html-css
@@ -66,7 +66,7 @@
 * [Projet WoW (World of WarCraft)](http://discourse.simplon.co/t/projet-wow-world-of-warcraft/117)
 * [Silent Teacher](http://discourse.simplon.co/t/silent-teacher/116)
 * [Projet Pottermore](http://discourse.simplon.co/t/projet-pottermore/118)
-* [Exercices type](http://discourse.simplon.co/t/exercices-type/121) => [HTML and CSS Ninja Training!](https://gitlab.com/simplon-co/HTML-and-CSS-Ninja-Training)
+* [Exercices type](http://discourse.simplon.co/t/exercices-type/121) => [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Les challenges additionnels](http://discourse.simplon.co/t/les-challenges-additionnels/61)
 * [Challenges du mercredi](http://discourse.simplon.co/t/challenges-du-mercredi/60)
 * [Cours sur HTML et CSS](http://discourse.simplon.co/t/cours-sur-html-et-css/33)
