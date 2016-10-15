@@ -4,6 +4,10 @@
 
 ![HTML5 & CSS3](html_css.png)
 
+## Training
+
+* https://github.com/simplonco/htmlcss-challenge-integration
+
 ## Exercises
 
 * [balloc.evitca](https://github.com/simplonco/balloc.evitca)
