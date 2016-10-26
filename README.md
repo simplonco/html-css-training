@@ -2,14 +2,6 @@
 
 >_[Training](https://github.com/simplonco/training) / HTML & CSS_
 
-![HTML5 & CSS3](html_css.png)
-
-## Training
-
-> Root of GitLab repository for a technology - modules
-
-* https://github.com/simplonco/htmlcss-challenge-integration
-
 ## Exercises
 
 > Exercices given without automated validation, with just a short subject / explanation
@@ -19,17 +11,18 @@
 * [Create a CV with Bootstrap to conquer the World!](https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World)
 * [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
+* https://github.com/simplonco/htmlcss-challenge-integration
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+> Long project activity, without tutorial, but some functional pecifications, to engage students autonomy
 
 * [Static Website](https://github.com/simplonco/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
 * [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
 
 ## Resources
 
-> Currated list of external urls - ressources
+> Currated list of external ressources
 
 * [Une introduction au HTML :](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Introduction) :fr:
   * Comprendre l'architecture d'une page ; l'histoire du "HTML au HTML5"
@@ -40,7 +33,7 @@
 * https://www.grafikart.fr/formations/html-css
 * http://www.htmldog.com/guides/css/
 
-### Simplonline
+#### Simplonline
 
 * Intégration HTML/CSS (Simplonline)
   http://simplonline.co/dashboard/partages-formateurs/244-semaine-1-integration-html-css :fr:
@@ -50,14 +43,14 @@
   * http://simplonline.co/dashboard/consignes/75-consignes-promo-4/335-s01e00-0-achtemeuleu-et-say-es-es :fr:
   * http://simplonline.co/dashboard/consignes/75-consignes-promo-4/336-s01e00-1-achtemeuleu-et-say-es-es :fr:
 
-### MDN
+#### Mozilla Developer Network
 
 * Mozilla Teaching Activities
   https://teach.mozilla.org/activities/ :gb:
 * The Magic of CSS
   http://adamschwartz.co/magic-of-css/ :gb:
 
-### HTML Checker
+#### HTML Checkers
 
 * Best practice, be sure your page validate this 2 checks: https://developers.google.com/speed/pagespeed/ & https://validator.w3.org/
 * https://la-cascade.io/flexbox-guide-complet/ :fr:
@@ -67,13 +60,13 @@
 * https://la-cascade.io/css-grid-layout-guide-complet/ :fr:
 * https://expo.getbootstrap.com/ :gb:
 
-### CSS Preprocessors
+#### CSS Preprocessors
 
 * http://lesscss.org/
 * http://sass-lang.com/
 * http://stylus-lang.com/
 
-### Discourses
+#### Discourses
 
 * [Projet WoW (World of WarCraft)](http://discourse.simplon.co/t/projet-wow-world-of-warcraft/117)
 * [Silent Teacher](http://discourse.simplon.co/t/silent-teacher/116)
