@@ -6,9 +6,13 @@
 
 ## Training
 
+> Root of GitLab repository for a technology - modules
+
 * https://github.com/simplonco/htmlcss-challenge-integration
 
 ## Exercises
+
+> Exercices given without automated validation, with just a short subject / explanation
 
 * [balloc.evitca](https://github.com/simplonco/balloc.evitca)
 * [Debug me, I'm famous!](https://github.com/simplonco/Debug-me-I-m-famous)
@@ -18,10 +22,14 @@
 
 ## Projects
 
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+
 * [Static Website](https://github.com/simplonco/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
 * [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
 
 ## Resources
+
+> Currated list of external urls - ressources
 
 * [Une introduction au HTML :](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Introduction) :fr:
   * Comprendre l'architecture d'une page ; l'histoire du "HTML au HTML5"
