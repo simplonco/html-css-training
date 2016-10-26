@@ -66,7 +66,7 @@
 * http://sass-lang.com/
 * http://stylus-lang.com/
 
-#### Discourses
+#### Discourses _(Montreuil Promo #3)_
 
 * [Projet WoW (World of WarCraft)](http://discourse.simplon.co/t/projet-wow-world-of-warcraft/117)
 * [Silent Teacher](http://discourse.simplon.co/t/silent-teacher/116)
