@@ -4,18 +4,18 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
+> Exercices given without automated validation, with just a short explanation
 
 * [balloc.evitca](https://github.com/simplonco/balloc.evitca)
 * [Debug me, I'm famous!](https://github.com/simplonco/Debug-me-I-m-famous)
 * [Create a CV with Bootstrap to conquer the World!](https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World)
 * [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
-* https://github.com/simplonco/htmlcss-challenge-integration
+* [Challenge intégration + Github](https://github.com/simplonco/htmlcss-challenge-integration) _TODO.._
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional pecifications, to engage students autonomy
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
 
 * [Static Website](https://github.com/simplonco/project-static-website) _Groups Project (HTML / CSS / Bootstrap)_
 * [Intégration "Privy"](https://github.com/simplonco/project-privy) _WebDesign_
