@@ -1,24 +1,24 @@
 [submodule "balloc.evitca"]
-	path = balloc.evitca
+	path = exercises/balloc.evitca
 	url = https://github.com/simplonco/balloc.evitca/
 [submodule "Create-a-CV-with-Bootstrap-to-conquer-the-World"]
-	path = Create-a-CV-with-Bootstrap-to-conquer-the-World
+	path = exercises/Create-a-CV-with-Bootstrap-to-conquer-the-World
 	url = https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World/
 [submodule "Debug-me-I-m-famous"]
-	path = Debug-me-I-m-famous
+	path = exercises/Debug-me-I-m-famous
 	url = https://github.com/simplonco/Debug-me-I-m-famous/
 [submodule "HTML-and-CSS-Ninja-Training"]
-	path = HTML-and-CSS-Ninja-Training
+	path = exercises/HTML-and-CSS-Ninja-Training
 	url = https://github.com/simplonco/HTML-and-CSS-Ninja-Training/
 [submodule "Ten-Commandments-of-HTML-and-CSS"]
-	path = Ten-Commandments-of-HTML-and-CSS
+	path = exercises/Ten-Commandments-of-HTML-and-CSS
 	url = https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/
 [submodule "project-privy"]
-	path = project-privy
+	path = projects/project-privy
 	url = https://github.com/simplonco/project-privy/
 [submodule "project-static-website"]
-	path = project-static-website
+	path = projects/project-static-website
 	url = https://github.com/simplonco/project-static-website/
 [submodule "htmlcss-challenge-integration"]
-	path = htmlcss-challenge-integration
+	path = exercises/htmlcss-challenge-integration
 	url = https://github.com/simplonco/htmlcss-challenge-integration
