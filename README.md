@@ -18,7 +18,7 @@
 * [Create a CV with Bootstrap to conquer the World!](https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World)
 * [HTML and CSS Ninja Training!](https://github.com/simplonco/HTML-and-CSS-Ninja-Training)
 * [Ten Commandments of HTML and CSS!](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS)
-* [Challenge intégration + Github](https://github.com/simplonco/htmlcss-challenge-integration) _TODO.._
+* [Challenge intégration + Github](https://github.com/simplonco/htmlcss-challenge-integration)
 
 ## Projects
 
