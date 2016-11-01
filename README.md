@@ -4,10 +4,10 @@
 
 ## Courses
 
-* `pdf` [HTML5](https://github.com/simplonco/html-css-training/blob/master/PDF/HTML5.pdf)
-* `pdf` [CSS3 keyframe](https://github.com/simplonco/html-css-training/blob/master/PDF/CSS3 keyframe.pdf)
-* `pdf` [Bootstrap](https://github.com/simplonco/html-css-training/blob/master/PDF/Bootstrap.pdf)
-* `pdf` [LESS](https://github.com/simplonco/html-css-training/blob/master/PDF/LESS.pdf)
+* `pdf` [HTML5](https://github.com/simplonco/html-css-training/blob/master/courses/HTML5.pdf)
+* `pdf` [CSS3 keyframe](https://github.com/simplonco/html-css-training/blob/master/courses/CSS3 keyframe.pdf)
+* `pdf` [Bootstrap](https://github.com/simplonco/html-css-training/blob/master/courses/Bootstrap.pdf)
+* `pdf` [LESS](https://github.com/simplonco/html-css-training/blob/master/courses/LESS.pdf)
 
 ## Exercises
 
