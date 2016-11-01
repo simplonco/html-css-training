@@ -19,3 +19,6 @@
 [submodule "project-static-website"]
 	path = projects/project-static-website
 	url = https://github.com/simplonco/project-static-website/
+[submodule "exercises/htmlcss-challenge-integration"]
+	path = exercises/htmlcss-challenge-integration
+	url = https://github.com/simplonco/htmlcss-challenge-integration
