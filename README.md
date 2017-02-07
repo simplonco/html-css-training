@@ -85,4 +85,10 @@
 * [Positionnement des éléments en CSS](http://discourse.simplon.co/t/positionnement-des-elements-en-css/35)
 * [Projet Game Of Thrones](http://discourse.simplon.co/t/projet-game-of-thrones/119)
 
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/html-css-training/issues)!
+
 _To be continued.._
